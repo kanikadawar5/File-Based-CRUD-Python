@@ -1,0 +1,6 @@
+InsID,PolicyId,Name,Age,Country,Plan_Type,Claim_Status
+1,111111,ABC1,20,India,Personal health insurance,0
+2,111112,ABC2,30,India,Permanent life insurance,0
+3,111113,ABC3,20,India,Long-term care insurance,0
+4,111114,ABC4,30,India,Term life insurance,0
+1006,222222,ABC3,24,Ind$$$$*&,Permanent life insurance,0
